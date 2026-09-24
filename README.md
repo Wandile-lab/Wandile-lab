@@ -12,14 +12,26 @@ I'm currently deepening my focus toward **Cloud Security and DevSecOps** — par
 
 ## What I Work With
 
-**☁️ Cloud**
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 
 * AWS
 * Google Cloud
 * Microsoft Azure
 * Oracle Cloud Infrastructure
 
-**⚙️ DevOps & Infrastructure**
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 * Linux
 * Docker
@@ -30,7 +42,7 @@ I'm currently deepening my focus toward **Cloud Security and DevSecOps** — par
 * Infrastructure as Code
 * Nginx
 
-**💻 Development**
+**Development**
 
 * Python
 * FastAPI
@@ -38,7 +50,7 @@ I'm currently deepening my focus toward **Cloud Security and DevSecOps** — par
 * REST APIs
 * Redis
 
-**🔐 Security**
+**Security**
 
 * Cloud Security
 * IAM
@@ -143,7 +155,7 @@ Currently going deeper into:
 
 ---
 
-##  Philosophy
+## Philosophy
 
 > Build it. Break it. Secure it. Automate it. Document it.
 
